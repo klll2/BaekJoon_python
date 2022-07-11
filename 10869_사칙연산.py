@@ -1,0 +1,8 @@
+x,y = input().split(" ")
+x1 = int(x)
+y1 = int(y)
+print(x1 + y1)
+print(x1 - y1)
+print(x1 * y1)
+print(x1 // y1)
+print(x1 % y1)
